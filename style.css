@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+    
+    }
+    
+    .fotoperfil{
+        width: 10%;
+        height: 10%;
+    }
+    
+    .github{
+    width: 2.5%;
+    height: 2.5%;
+    }
+    
+    .ig{
+    width: 2.5%;
+    height: 2.5%;
+    }
+    
+    .mail{
+    width: 2.5%;
+    height: 2.5%;
+    }
+    
+    .flechas{
+    width: 12%;
+    height: 3%;
+    }
